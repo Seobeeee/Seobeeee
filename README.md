@@ -1,3 +1,5 @@
+> [!CAUTION]
+> <b>The private repository is open only for the duration of the interview.</b>
 <div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&width=800&section=header&text=Hi!%20I'm%20Seobee!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
@@ -9,7 +11,6 @@
 
 <p align="center">
   Hi, I'm working on Social Conversions Div (Miniverse Project) at <a href="https://kr.ncsoft.com/">NcSoft</a> Since 2020<br>
-  <a color="red"> <b>The private repository is open only for the duration of the interview.</b></a>
   <br>
   <br>
   Thanks to comming my github. 😄
