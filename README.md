@@ -49,6 +49,7 @@
 <p align="center">
   <a href="https://www.instagram.com/seobee_myeong/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/seobee_myeong/"/></a>&nbsp
   <a href="mailto:oaudtjq@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=oaudtjq@gmail.com"/></a>
+  <a href="https://www.linkedin.com/in/myeongseop-kim-481533170"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white&link=www.linkedin.com/in/myeongseop-kim-481533170"/></a>&nbsp
 </p>
 <!--
 **Seobeeee/Seobeeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
