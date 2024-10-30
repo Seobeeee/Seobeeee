@@ -1,11 +1,14 @@
-## Hi,  This is Seobee's Github Repo
-![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Hi!%20I'm%20Seobee!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
-<p align="right">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-</p>
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&width=800&section=header&text=Hi!%20I'm%20Seobee!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=000000)
+  
+  <p align="right">
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyeinisfree&count_bg=%2341B883&title_bg=%23CDC2C2&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  </p>
+</div>
 
 <p align="center">
-Hi, I'm working on <a href="https://kr.ncsoft.com/">NcSoft</a> at Social Conversion Div (Miniverse Project) since 2020<br>
+Hi, I'm working on Social Conversion Div (Miniverse Project) at <a href="https://kr.ncsoft.com/">NcSoft</a> since 2020<br>
 Thanks to comming my github. 😄
 </p>
 
