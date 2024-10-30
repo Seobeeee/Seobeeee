@@ -8,8 +8,11 @@
 </div>
 
 <p align="center">
-Hi, I'm working on Social Conversion Div (Miniverse Project) at <a href="https://kr.ncsoft.com/">NcSoft</a> since 2020<br>
-Thanks to comming my github. 😄
+  Hi, I'm working on Social Conversions Div (Miniverse Project) at <a href="https://kr.ncsoft.com/">NcSoft</a> Since 2020<br>
+  <a color="red"> <b>The private repository is open only for the duration of the interview.</b></a>
+  <br>
+  <br>
+  Thanks to comming my github. 😄
 </p>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
